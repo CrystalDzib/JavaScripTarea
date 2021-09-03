@@ -1,2 +1,2 @@
-# JavaScripTarea
+# TareaJS
 Created with CodeSandbox
